@@ -1,0 +1,2 @@
+# InfiniteCarouselProject
+使用scrollView实现图片无限轮播的功能，在scrollView中添加左、中、右三个imageView
